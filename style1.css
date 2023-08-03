@@ -1,0 +1,129 @@
+/*หลักสูตร*/
+.frame-course section{
+    padding: 0 10px 0 10px;
+}
+.frame-course nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frame-course h3{
+    padding-left: 10px;
+    border-bottom: white 1px solid;
+    color: white;
+    font-weight: normal;
+}
+.frame-course a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+.frame-course a:hover{
+    color: orange;
+}
+.frame-course iframe{
+   margin: 10px 25%;
+   height: 75em;
+   width: 50%;
+}
+/*แผนการเรียน*/
+.frame-plan section{
+    padding: 0 10px 0 10px;
+}
+.frame-plan nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frame-plan h3{
+    padding-left: 10px;
+    border-bottom: white 1px solid;
+    color: white;
+    font-weight: normal;
+}
+.frame-plan a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+.frame-plan a:hover{
+    color: orange;
+}
+.frame-plan iframe{
+   margin: 10px 15%;
+   height: 45em;
+   width: 70%;
+}
+/*ปฎิทินการศึกษา*/
+.frame-calendar section{
+    padding: 0 10px 0 10px;
+}
+.frame-calendar nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frame-calendar h3{
+    padding-left: 10px;
+    border-bottom: white 1px solid;
+    color: white;
+    font-weight: normal;
+}
+.frame-calendar a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+.frame-calendar a:hover{
+    color: orange;
+}
+.frame-calendar iframe{
+   margin: 10px 15%;
+   height: 45em;
+   width: 70%;
+}
+/*คู่มือการศึกษา*/
+.frame-guide section{
+    padding: 0 10px 0 10px;
+}
+.frame-guide nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frame-guide h3{
+    padding-left: 10px;
+    border-bottom: white 1px solid;
+    color: white;
+    font-weight: normal;
+}
+.frame-guide a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+.frame-guide a:hover{
+    color: orange;
+}
+.frame-guide iframe{
+   margin: 10px 15%;
+   height: 45em;
+   width: 70%;
+}
+/*ระบบ มทรก.*/
+.rule section{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.rule section h3{
+    border-bottom: 1px white solid;
+    color: white;
+}
+.rule .head1{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.rule #head2{
+    border-bottom: 1px white solid;
+    color: white;
+}
